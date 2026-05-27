@@ -1,0 +1,25 @@
+2026-05-27T23:32:51.090904838Z [inf]  Starting Container
+2026-05-27T23:32:52.377808799Z [inf]  
+2026-05-27T23:32:52.377816464Z [inf]  > titanbot-custom@1.1.1 start
+2026-05-27T23:32:52.377824101Z [inf]  > node src/app.js
+2026-05-27T23:32:52.377831687Z [inf]  
+2026-05-27T23:32:52.377839000Z [inf]  [23:32:51] [startup]: Starting TitanBot...
+2026-05-27T23:32:53.314460220Z [inf]  [23:32:52] [startup]: Initializing database...
+2026-05-27T23:32:53.337814392Z [inf]  [23:32:53] [startup]: ✅ Database Status: postgresql (fully operational)
+2026-05-27T23:32:53.337818218Z [inf]  [23:32:53] [startup]: Starting web server...
+2026-05-27T23:32:53.345223311Z [inf]  [23:32:53] [startup]: Loading commands...
+2026-05-27T23:32:53.345231987Z [inf]  [23:32:53] [startup]: ✅ Web Server running on 0.0.0.0:8080
+2026-05-27T23:32:53.345239355Z [inf]  [23:32:53] [startup]: Health endpoint: http://localhost:8080/health
+2026-05-27T23:32:53.345246904Z [inf]  [23:32:53] [startup]: Ready endpoint: http://localhost:8080/ready
+2026-05-27T23:32:54.230596671Z [inf]  [23:32:53] [startup]: Commands loaded: 99
+2026-05-27T23:32:54.230602153Z [inf]  [23:32:53] [startup]: Loading handlers...
+2026-05-27T23:32:54.230607101Z [inf]  [23:32:53] [startup]: Handlers loaded
+2026-05-27T23:32:54.230614640Z [inf]  [23:32:53] [startup]: Logging into Discord...
+2026-05-27T23:32:55.236952128Z [inf]  [23:32:54] [startup]: Loaded 99 commands
+2026-05-27T23:32:55.236957838Z [inf]  [23:32:54] [startup]: Reaction role reconciliation: scanned 0, removed 0, errors 0
+2026-05-27T23:32:55.236963314Z [inf]  [23:32:55] [startup]: Slash commands registration complete
+2026-05-27T23:32:55.236968706Z [inf]  [23:32:55] [startup]: ONLINE ✅ | 99 commands loaded | 33 buttons, 3 menus, 6 modals | Database: Connected (persistent data enabled)
+2026-05-27T23:32:55.237064508Z [inf]  [23:32:54] [startup]: Discord login successful
+2026-05-27T23:32:55.237069784Z [inf]  [23:32:54] [startup]: Registering slash commands...
+2026-05-27T23:32:55.237075111Z [inf]  [23:32:54] [startup]: Ready! Logged in as R I Z R#9381
+2026-05-27T23:32:55.237080692Z [inf]  [23:32:54] [startup]: Serving 1 guild(s)
