@@ -1,5 +1,5 @@
 // ⚠️ ضع آيدي الروم الصوتي الخاص بك هنا بين العلامتين
-const VOICE_CHANNEL_ID = "1506753327474413679"; 
+const VOICE_CHANNEL_ID = "1473405320821866660"; 
 
 // حدث مراقبة خروج البوت المفاجئ أو الطرد من الروم
 client.on('voiceStateUpdate', async (oldState, newState) => {
